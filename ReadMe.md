@@ -1,8 +1,10 @@
-# Loja fictícia de automóvel
+# Car mechanic store
 
 <img src="Arquivos/Imagenss/md.png">
 
-*Projeto de uma loja de automóvel*
+*Landing page from a fictitious car mechanic*
 
-*Foi utilizado HTML, CSS(Com Bootstrap) e JS*
+*Techs: HTML, CSS(with Bootstrap) and JS*
+
+*Portuguese language*
 
